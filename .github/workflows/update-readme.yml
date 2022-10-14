@@ -61,5 +61,3 @@ jobs:
           template: classic
           base: header, activity, metadata
           config_timezone: Asia/Taipei
-          plugin_poopmap: yes
-          plugin_poopmap_days: 7
